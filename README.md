@@ -362,6 +362,8 @@ iface eth3 inet static
 <img width="1470" alt="image" src="https://user-images.githubusercontent.com/73029778/204075395-c83eedda-c8bd-43a2-b4b4-2378fa7b7250.png">
 
 ## Testing
+Lakukan ping antar node. Di sini kami melakukan ping dari node `ashaf` ke node `helga`
+<img width="1470" alt="image" src="https://user-images.githubusercontent.com/73029778/204075730-79410abc-d516-44a6-b5cb-b8f0f7c3ea51.png">
 
 
 
